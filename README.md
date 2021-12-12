@@ -13,7 +13,13 @@
   </tr>
   <tr>
     <td>FindPhrases.ipynb</td>
-    <td>Using nltk, finds most frequent phrases from a corpus in any language.</td>
-    <td>Using abc corpus : (('per', 'cent'), 555), (('New', 'South'), 421), (('South', 'Wales'), 421), (('Federal', 'Government'), 322), (('years', 'ago'), 283)<br><br> The numners are the count of times the phrase is appearing in the corpus.</td>
+    <td>Packages used : nltk <br>Finds most frequent phrases from a corpus in any language. <br> This program uses 'abc' corpus from nltk to count frequent phrases, but the logic works for all languages.</td>
+    <td>Format : (phrase, count) <br> (('per', 'cent'), 555), (('New', 'South'), 421), (('South', 'Wales'), 421), (('Federal', 'Government'), 322), (('years', 'ago'), 283)</td>
   </tr>
+  <tr>
+    <td>FindPhrasesPython.ipynb</td>
+    <td>Finds most frequent phrases from a corpus in any language. <br> This program uses 'abc' corpus from nltk to count frequent phrases, but the logic works for all languages.</td>
+    <td>Format : (phrase, count) <br> (('at', 'the', 'university', 'of'), 182), (('issue', 'of', 'the', 'journal'), 119), (('of', 'the', 'university', 'of'), 115), (('from', 'the', 'university', 'of'), 109)</td>
+  </tr>
+
 </table>
