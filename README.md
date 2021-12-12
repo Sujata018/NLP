@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>Postagger4Noisy.ipynb</td>
-    <td>Using nltk standard POS TAGger, create POS TAG for noisy text.</td>
+    <td>Create POS TAG for noisy text using Python. Nltk is used for POS TAGging the clean text and getting English Corpus only.</td>
     <td>hw r yu ? -> how are you -> how (adverb), are (verb), you (pronoun).</td>
   </tr>
 </table>
