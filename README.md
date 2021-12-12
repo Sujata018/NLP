@@ -14,6 +14,6 @@
   <tr>
     <td>FindPhrases.ipynb</td>
     <td>Using nltk, finds most frequent phrases from a corpus in any language.</td>
-    <td>Using abc corpus : (('per', 'cent'), 555), (('New', 'South'), 421), (('South', 'Wales'), 421), (('Federal', 'Government'), 322), (('years', 'ago'), 283)</td>
+    <td>Using abc corpus : (('per', 'cent'), 555), (('New', 'South'), 421), (('South', 'Wales'), 421), (('Federal', 'Government'), 322), (('years', 'ago'), 283)<br> The numners are the count of times the phrase is appearing in the corpus.</td>
   </tr>
 </table>
