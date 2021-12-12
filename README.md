@@ -9,6 +9,6 @@
   <tr>
     <td>Postagger4Noisy.ipynb</td>
     <td>Using nltk standard POS TAGger, create POS TAG for noisy text.</td>
-    <td>hw r yu ? -> how are you -> how (adverb), are (verb), you (pronoun)</td>
+    <td>hw r yu ? -> how are you -> how (adverb), are (verb), you (pronoun).</td>
   </tr>
 </table>
